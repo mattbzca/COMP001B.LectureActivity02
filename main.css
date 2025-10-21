@@ -1,0 +1,14 @@
+h1 {
+    background-color: lightcoral;
+    padding: 10px 20px 10px 20px;
+    margin: 20px 20px 20px 20px;
+}
+
+p {
+    background-color: lightgreen;
+    border: 2px solid red;
+}
+
+.parwidth {
+    width: 300px;
+}
