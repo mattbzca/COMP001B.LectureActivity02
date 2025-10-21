@@ -1,0 +1,2 @@
+Author: Matthew Tan
+Purpose: My second assignment that demonstrates how to use position elements on the page using the CSS box model. The index.html contains headers and paragraphs that are modified in color or position, which is done by the main.css file.
